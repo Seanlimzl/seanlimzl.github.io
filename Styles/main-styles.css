@@ -85,8 +85,8 @@ main .div{
 
 .ProfilePic {
     justify-self: flex-end;
-    max-width: 25vw;
-    max-height: 25vh;
+    max-width: 250px;
+    max-height: 250px;
 }
 
 .SectionHeaders {
